@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-Commerce site<br>👯 I’m looking to collaborate on NextJS or React Native projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Native App Development in React Native<br>💬 Ask me about Web Development, App Development and Cybersecurity<br>⚡ Fun fact I am a fully qualified self-taught Penetration Tester and Developer
+🔭 I’m currently working on an E-Commerce site<br>👯 I’m looking to collaborate on NextJS or React Native projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Native App Development in React Native<br>💬 Ask me about Web Development, App Development and Cybersecurity<br>⚡ Fun fact The "C" programming language was improved from "B" and is one of the most popular languages in history
 
 
 ## 🌐 Socials:
